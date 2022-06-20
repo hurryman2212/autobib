@@ -1,0 +1,8 @@
+*
+!.gitignore
+
+# Makefile
+!Makefile
+
+# BibTeX
+!*.bib
